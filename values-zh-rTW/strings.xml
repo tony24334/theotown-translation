@@ -427,7 +427,7 @@
     <string name="tutorial_title">教學</string>
     <string name="tutorial_welcome">歡迎來到教學!</string>
     <string name="tutorial_minimap">你可以選擇展開或者關閉小地圖。</string>
-    <string name="tutorial_buildroad_a">接下來我們來嘗試鋪設道路，先選擇最近處的土路。</string>
+    <string name="tutorial_buildroad_a">接下來我們來試試鋪設道路，先選擇最近處的土路。</string>
     <string name="tutorial_buildroad_b">請將公路放置在標記的方塊上，輕擊螢幕作為起點，再一次輕擊選擇道路的終點。</string>
     <string name="tutorial_buildroad_c">做的不錯! 現在請關閉道路選單。</string>
     <string name="tutorial_buildenergy_a">接下來將建造太陽能發電廠。</string>
@@ -454,13 +454,13 @@
     <string name="tutorial_buildindustrial_c">做得好，現在不同種類的建築物會在不同分區自動被建造。</string>
     <string name="tutorial_industrial_keepaway">工業區應該遠離其它區域，因為它會製造污染和噪音。</string>
     <string name="tutorial_rci">點擊這個按鈕你會看到城市現在的具體需求。</string>
-    <string name="tutorial_speed_fast">你可以改變遊戲速度以避免太長的等待時間。</string>
+    <string name="tutorial_speed_fast">你可以改變遊戲速度以度過太長的等待時間。</string>
     <string name="tutorial_speed_normal">把它恢復到正常速度。</string>
     <string name="tutorial_money_task">你的任務就是利用稅收來不斷擴大你的城市。</string>
     <string name="tutorial_money_info">點擊右下角的方塊你可以了解城市的財政明細或者調整稅率。</string>
     <string name="tutorial_congrats">恭喜你已經掌握了最基礎的操作! 現在就有你自已來建造你的理想城市吧!</string>
-    <string name="draft_road03_title">單程路</string>
-    <string name="draft_road03_text">車輛只能從一個方向通過，可以用它布控城市交通。</string>
+    <string name="draft_road03_title">單行道</string>
+    <string name="draft_road03_text">車輛只能從一個方向通過，可以用它規劃城市交通。</string>
     <string name="budget_sports">體育設施</string>
     <string name="budget_religion">宗教</string>
     <string name="population_unit">%1$,d</string>
